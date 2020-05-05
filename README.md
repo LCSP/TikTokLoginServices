@@ -8,7 +8,8 @@ This services provides the ability to Follow, Like, Comment and share on TikTok.
 -------------
 To test it make a request to this URL:  `http://ttdone.ml/?user_id={USER_ID}` where `{USER_ID}` is the user id of the user to follow.
 >You will be banned of the system after one try (Anti spam purposes)
-(Following is the only test available at the moment, contactme for more)
+
+>In the future there will be likes, comments and shares.
 
 
 ### How to get user_id?
