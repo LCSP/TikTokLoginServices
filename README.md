@@ -19,3 +19,4 @@ To test it make a request to this URL:  `http://ttdone.ml/?user_id={USER_ID}` wh
 ##### Contact
 -------------
 If you want to contact me to use these services please email me at lcfcnd1@hotmail.com.
+Or in ![Discord](https://discord.gg/qqpJra5)
